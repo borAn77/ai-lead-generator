@@ -19,6 +19,10 @@ AI-powered system that generates verified B2B leads and outreach emails.
 - SerpAPI
 - OpenAI
 
+## Demo Video
+
+[Watch the demo](assets/demo.mp4)
+
 ## Installation
 
 ```bash
